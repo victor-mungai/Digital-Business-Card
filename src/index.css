@@ -139,6 +139,7 @@ background-color: #161619;
 border-radius: 0px 0px 10px 10px;
 justify-content:space-evenly;
 align-items: center;
+vertical-align: center;
 }
 iframe
 {
@@ -148,7 +149,6 @@ a{
   text-decoration: none;
 }
 .footer div{
-padding-top: 10px;
 background: #161619;
 border-radius: 0px 0px 10px 10px;
 }
