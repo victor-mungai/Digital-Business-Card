@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Profile from './IMG_E5073.JPG';
+import Profile from './IMG_3685 mungai.jpeg';
 import UserInfo from './UserInfo';
 import MainContent from './MainContent'
 import Footer from './Footer';
